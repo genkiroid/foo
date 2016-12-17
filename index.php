@@ -1,2 +1,2 @@
 <?php
-require 'hello.php';
+echo 'Hi.';
